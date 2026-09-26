@@ -2,7 +2,7 @@
 
 > **Proyecto Académico (4to Semestre) - Materia: Bases de Datos I**
 
-Este repositorio contiene el diseño, estructuración y programación de una base de datos relacional orientada a la gestión de un sistema de cine (películas, actores, directores, reparto y reseñas)[cite: 6]. El proyecto fue desarrollado utilizando **MySQL** y **phpMyAdmin** mediante XAMPP.
+Este repositorio contiene el diseño, estructuración y programación de una base de datos relacional orientada a la gestión de un sistema de cine (películas, actores, directores, reparto y reseñas). El proyecto fue desarrollado utilizando **MySQL** y **phpMyAdmin** mediante XAMPP.
 
 ## 📺 Demostración y Explicación Técnica
 
